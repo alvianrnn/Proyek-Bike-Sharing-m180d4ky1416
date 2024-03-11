@@ -34,7 +34,7 @@ from datetime import datetime
 hour_df = pd.read_csv("/content/hour.csv")
 hour_df.head()
 
-day_df = pd.read_csv("/content/day.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/alvianrnn/Proyek-Bike-Sharing-m180d4ky1416/main/day.csv")
 day_df.head()
 
 """### Assessing Data"""
