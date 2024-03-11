@@ -6,3 +6,4 @@ pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.19.2
 pandas-stubs==1.5.3.230304
+seaborn==0.13.1
