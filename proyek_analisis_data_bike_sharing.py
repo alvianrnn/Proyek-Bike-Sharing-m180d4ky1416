@@ -137,5 +137,3 @@ plt.show()
 - Dari hasil didapatkan kesimpulan bahwa terdapat hubungan antara persewaan sepeda dengan cuaca. Pada cuara cerah (1) dan di hari kerja pada plot didapatkan hasil yang cukup besar. Apabila di cuaca hujan (3) penyewa sepeda cukup sedikit. Oleh karena itu, dapat disimpulkan bahwa cuaca akan mempengaruhi persewaan sepeda
 - Terdapat perbedaan antara persewaan di hari kerja dan hari biasa. Pada hari biasa persewaan sepeda cenderung hanya di hari Sabtu dan Minggu dengan plot yang sangat lebar. Namun, pada hari kerja plot dari hari Senin-Jumat cukup lebar.
 """
-
-!pip freeze > requirements.txt
